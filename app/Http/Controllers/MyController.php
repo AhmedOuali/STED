@@ -10,6 +10,6 @@ class MyController extends Controller
 {
     public function index ()
     	{
-    	 	return view('Home');
+    	 	return view('index');
     	}
 }
